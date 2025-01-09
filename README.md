@@ -1,5 +1,5 @@
-# Analysis-with-sql-and-powerbi Axon Analysis
-# Axon Business Analysis - Capstone Project
+# Analysis-with-sql-and-powerbi
+# Axon Business Analysis
 
 ## 📋 Overview
 This project implements a **Business Intelligence (BI) solution** for Axon, a company selling classic cars. Using **Power BI** and **SQL**, the project analyzes and visualizes sales data from a MySQL database, focusing on sales trends, customer behavior, and promotional effectiveness.
